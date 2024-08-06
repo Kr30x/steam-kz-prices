@@ -206,7 +206,7 @@ export default function Component() {
           </div>
         </div>
       </main>
-      <footer className="py-6 text-center text-white bg-black/50">
+      <footer className="py-6 text-center text-white bg-white/10">
         <p className="text-sm">&copy; 2024 Swapper. All rights reserved.</p>
       </footer>
     </div>
